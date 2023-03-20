@@ -3,4 +3,4 @@ project(LCII C)
 
 set(CMAKE_C_STANDARD 11)
 
-add_executable(LCII main.c Clase_1.c)
+add_executable(LCII main.c Clases/Clase_1.c)
