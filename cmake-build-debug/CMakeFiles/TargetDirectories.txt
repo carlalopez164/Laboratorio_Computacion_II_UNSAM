@@ -1,0 +1,3 @@
+C:/Users/carla/CLionProjects/LCII/cmake-build-debug/CMakeFiles/LCII.dir
+C:/Users/carla/CLionProjects/LCII/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/carla/CLionProjects/LCII/cmake-build-debug/CMakeFiles/rebuild_cache.dir
